@@ -1,0 +1,77 @@
+@import url("font/style.css");
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gilroy', sans-serif
+}
+
+.header {
+    margin-top: 40px;
+}
+
+.header__title {
+    color: #000;
+    font-size: 24px;
+}
+
+.header__title__color {
+    color: #F25822;
+}
+
+.header__menu {
+    font-size: 14px;
+}
+
+.header__menu__links {
+    text-decoration: none;
+    padding-right: 15px;
+    font-size: 14px;
+    color: #000;
+}
+
+.header__menu__links:hover {
+    color: #F25822;
+}
+
+.main {
+    margin-bottom: 178px;
+}
+
+.main__content {
+    margin-top: 96px;
+}
+
+.main__heading {
+    color: #000;
+    font-size: 60px;
+}
+
+.main__text {
+    margin-top: 17px;
+}
+
+.main__buttons {
+    margin-top: 102px;
+}
+
+.button {
+    border: none;
+    padding: 15px 36px 16px 35px;
+    text-align: center;
+    text-decoration: none;
+    color: #FFF;
+    font-size: 15px;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+}
+
+.footer {
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
+
+.img__logo {
+    padding-right: 46px;
+}
